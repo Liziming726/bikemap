@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: SF Pro SC,SF Pro Display,SF Pro Icons,AOS Icons,PingFang SC,Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #f5f5f5;
+}
+
+.t1{
+  margin-left: 20vw;
+  margin-top: 5vh;
+}
+
+.t2{
+  text-align: center;
+  color: rgb(73,73,73)
+}
+
+.login .form{
+  width: 400px;
+  height: 260px;
+  margin: 70px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px 0 #ddd;
+}
